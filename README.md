@@ -159,11 +159,17 @@ App No. **202641007638 A** (Feb 2026) — AI agents for code generation, securit
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🌆 3D Contribution Skyline
+## ✨ Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/?username=subashreeseetharaman&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subashreeseetharaman&theme=tokyonight&animation=fade" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subashreeseetharaman&theme=tokyonight&animation=draw" width="45%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subashreeseetharaman&theme=tokyonight&animation=stagger" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subashreeseetharaman&theme=tokyonight&animation=sequence&utcOffset=8" width="45%"/>
 
 </div>
 
