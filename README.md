@@ -1,107 +1,116 @@
-# Hi 👋, I'm Subashree S
+<div align="center">
 
-### Full Stack Developer | AI Enthusiast | Data Analyst | Java Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E2DE2&height=200&section=header&text=Subashree%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Data+Analyst;Java+Developer)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Data+Enthusiast+%F0%9F%A4%96;Java+Developer+%E2%98%95;Exploring+Blockchain+%E2%9B%93" alt="Typing SVG" />
+</a>
 
-- 🎓 B.E in Computer Science and Engineering (2023 - 2027)
-- 🏫 V.S.B College of Engineering Technical Campus, Coimbatore
-- 📈 CGPA: **8.57**
-- 💻 Skilled in Full Stack Development, backend APIs, and AI-based solutions
-- 🌱 Exploring **Blockchain technologies** and decentralized applications
-- 📫 Reach me: **subashreeseetharaman@gmail.com**
-- 📱 **8825736863**
-
----
-
-## 🌐 Connect with Me
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashreeseetharaman)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subashreeseetharaman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subashreeseetharaman)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subashreeseetharaman@gmail.com)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=subashreeseetharaman&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
 
-# 💻 Skills
+</div>
 
-### Programming Languages
-![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png)
-![Python](https://img.icons8.com/color/48/python.png)
-![C](https://img.icons8.com/color/48/c-programming.png)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-### Frontend
-![HTML5](https://img.icons8.com/color/48/html-5.png)
-![CSS3](https://img.icons8.com/color/48/css3.png)
-![JavaScript](https://img.icons8.com/color/48/javascript.png)
-![React](https://img.icons8.com/color/48/react-native.png)
+## 🎯 About Me
 
-### Backend
-![Node.js](https://img.icons8.com/color/48/nodejs.png)
-![Express](https://img.icons8.com/color/48/express-js.png)
+- 🎓 B.E in Computer Science and Engineering (2023 – 2027) — **CGPA: 8.57**
+- 🏫 V.S.B College of Engineering Technical Campus, Coimbatore
+- 💻 Skilled in Full Stack Development, backend APIs, and AI-based solutions
+- 🌱 Exploring **Blockchain technologies** and decentralized applications
+- 📄 Co-contributor on a published **Indian Patent Application** in AI + Blockchain
+- 📫 **subashreeseetharaman@gmail.com**
 
-### Database
-![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-### AI / Data
-- Basics of Machine Learning, Data Analysis, Python libraries (EDA, data visualization)
+## 💻 Tech Stack
 
-### Tools
-![Git](https://img.icons8.com/color/48/git.png)
-![GitHub](https://img.icons8.com/color/48/github.png)
-![VS Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-# 🚀 Projects
+</div>
 
-### 📌 EcoSortAI – Full-Stack Waste Sorting App
-**Tools:** React.js, Node.js, Express.js, JSON
-Camera-based waste-sorting application with a decoupled two-tier architecture — a React (Vite) frontend for camera capture, scan results, and a stats dashboard, and a Node.js/Express REST API backend for classification, scoring, and persistence. MVC-style structure (routes → controllers → utils), built to be extended with a trained ML model, database, and authentication.
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
----
+## 🚀 Featured Projects
 
-### 📌 Personal Fitness Tracker
-**Tools:** React.js, HTML5 & CSS3, Node.js, JSON Web Tokens
-Full-stack fitness application to log, track, and visualize daily workout metrics, with RESTful APIs for user profiles and data retention.
+<table>
+<tr>
+<td width="50%">
 
----
+### 🌱 EcoSortAI
+**Full-Stack Waste Sorting App**
+`React.js` `Node.js` `Express.js` `JSON`
 
-### 📌 Blog CMS
-**Tools:** HTML5 & CSS3, JavaScript, Flask
-Content Management System with user authentication, CRUD operations, and dynamic content management — post creation, editing, and deletion with database integration.
+Camera-based waste-sorting app with a decoupled two-tier architecture — React (Vite) frontend for capture & stats dashboard, Node/Express REST API for classification and scoring, MVC-style backend, built to extend with a trained ML model and auth.
 
----
+</td>
+<td width="50%">
 
-# 💼 Experience
+### 🏋️ Personal Fitness Tracker
+**Full-Stack Fitness App**
+`React.js` `HTML5 & CSS3` `Node.js` `JWT`
 
-**Data Science & Analytics Intern – Future Intern** (Feb 2026 – Mar 2026)
-Analyzed and processed datasets using Python and SQL, performing EDA and data visualization; implemented basic ML techniques to derive insights.
+Log, track, and visualize daily workout metrics with RESTful APIs for user profiles and data retention, optimized for fast page loads.
 
-**Data Analytics Intern – IStudio** (Dec 2025 – Jan 2026)
-Data cleaning, analysis, and visualization using Python and basic ML concepts.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Full Stack Web Development Intern – Prodigy Infotech** (Nov 2025 – Dec 2025)
-Developed responsive full stack web applications with CRUD operations and API integration.
+### ✍️ Blog CMS
+**Content Management System**
+`HTML5 & CSS3` `JavaScript` `Flask`
 
-**Cybersecurity Intern – Prodigy Infotech** (Jun 2025 – Jul 2025)
-Conducted vulnerability analysis and supported basic security assessments.
+Full CRUD content system with user authentication, dynamic post creation/editing/deletion, and database-backed content management.
 
-**Web Development Intern – Navodita Infotech** (Feb 2024 – Mar 2024)
-Built responsive web pages using HTML, CSS, and JavaScript.
+</td>
+<td width="50%">
 
----
+### 📄 Patent — AI x Blockchain
+**Published Indian Patent Application**
 
-# 📄 Paper & Patent
+*"Automating Blockchain Development: An AI-Driven Framework for Secure, High-Velocity Smart Contract Deployment"* — App No. 202641007638 A (Feb 2026). AI agents for code generation, security auditing, and Hedera Hashgraph-based scalability.
 
-**"Automating Blockchain Development: An AI-Driven Framework for Secure, High-Velocity Smart Contract Deployment"**
-Indian Patent Application No. 202641007638 A, Published Feb 13, 2026
-- Contributed to an AI-powered blockchain framework for automated smart contract deployment
-- Integrated AI agents for code generation, security auditing, and performance optimization
-- Combined blockchain (Hedera Hashgraph) with AI to improve scalability and development efficiency
+</td>
+</tr>
+</table>
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-# 📜 Certifications
+## 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Data Science & Analytics Intern | Future Intern | Feb 2026 – Mar 2026 |
+| Data Analytics Intern | IStudio | Dec 2025 – Jan 2026 |
+| Full Stack Web Development Intern | Prodigy Infotech | Nov 2025 – Dec 2025 |
+| Cybersecurity Intern | Prodigy Infotech | Jun 2025 – Jul 2025 |
+| Web Development Intern | Navodita Infotech | Feb 2024 – Mar 2024 |
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 📜 Certifications
 
 - Data Science for Beginners – Wipro Future Skills Prime (May 2026)
 - Yuva AI For All – Wipro Future Skills Prime (Mar 2026)
@@ -110,26 +119,41 @@ Indian Patent Application No. 202641007638 A, Published Feb 13, 2026
 - Python for Data Science & Machine Learning – Uniathena (Nov 2025)
 - Introduction to Data Science – Infosys Springboard (Jan 2025)
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Subashree's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashreeseetharaman&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Streak stats](https://streak-stats.demolab.com?user=subashreeseetharaman&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=subashreeseetharaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashreeseetharaman&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subashreeseetharaman&layout=compact&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=subashreeseetharaman&theme=tokyonight&hide_border=true" width="60%"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subashreeseetharaman&theme=tokyo-night&hide_border=true" width="90%"/>
 
-# 📊 GitHub Activity Graph
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subashreeseetharaman&theme=tokyo-night)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
----
+## 🐍 Contribution Snake
 
-## 💡 Quote
+<div align="center">
 
-> Code. Learn. Build. Grow.
+<img src="https://raw.githubusercontent.com/subashreeseetharaman/subashreeseetharaman/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+> *Setting up the snake takes one extra step — see the note below.*
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Grow."
 
 ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:36BCF7&height=100&section=footer" width="100%"/>
+
+</div>
